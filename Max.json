@@ -5,7 +5,7 @@
 	"sites": [
 	    {
                "key": "csp_MiTuApp",
-               "name": "🐰米兔┃秒播",
+               "name": "🐰蓝光┃秒播",
                "type": 3,
                "searchable": 1,
                "quickSearch": 1,
@@ -14,7 +14,7 @@
          },
 	    {
 		"key": "wencai",
-		"name": "蓝光┃秒播",
+		"name": "蓝光┃高速",
 		"type": 3,
 		"api": "csp_Jpys",
 		"searchable": 1,
