@@ -3,29 +3,9 @@
 	"logo": "",
 	"wallpaper": "https://bing.img.run/uhd.php",
 	"sites": [
-	  {
-		"key": "csp_DouDou",
-		"type": 3,
-		"api": "csp_DouDou",
-		"jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238",
-		"searchable": 0,
-		"filterable": 1,
-		"changeable": 1
-	  },
-	  {
-		"key": "csp_Wwys",
-		"name": "👨农民┃秒播",
-		"type": 3,
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"api": "csp_Wwys",
-		"ext": "https://www.wwgz.cn/"
-	  },
-	  {
+	    {
 		"key": "wencai",
-		"name": "🥭文采┃秒播",
+		"name": "蓝光┃秒播",
 		"type": 3,
 		"api": "csp_Jpys",
 		"searchable": 1,
@@ -36,8 +16,20 @@
 		"ext": "https://www.hkybqufgh.com"
 	  },
 	  {
+		"key": "csp_Wwys",
+		"name": "蓝光┃速播",
+		"type": 3,
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"api": "csp_Wwys",
+		"ext": "https://www.wwgz.cn/"
+	  },
+	
+	  {
 		"key": "csp_Xlys",
-		"name": "🍤哔嘀┃秒播",
+		"name": "蓝光┃立播",
 		"api": "csp_Xlys",
 		"searchable": 1,
 		"quickSearch": 1,
@@ -46,7 +38,7 @@
 	  },
 	  {
 		"key": "csp_AppDrama2",
-		"name": "🐯虎虎┃秒播",
+		"name": "蓝光┃极速",
 		"type": 3,
 		"quickSearch": 1,
 		"api": "csp_AppDrama",
@@ -54,7 +46,7 @@
 	  },
 	  {
 		"key": "csp_AppDrama3",
-		"name": "👀眼镜┃秒播",
+		"name": "蓝光┃光速",
 		"type": 3,
 		"quickSearch": 1,
 		"api": "csp_AppDrama",
@@ -62,7 +54,7 @@
 	  },
 	  {
 		"key": "csp_AppTuTu",
-		"name": "🛹图图┃秒播",
+		"name": "蓝光┃4K",
 		"type": 3,
 		"quickSearch": 0,
 		"api": "csp_AppTuTu",
@@ -70,7 +62,7 @@
 	  },
 	  {
 		"key": "瓜子",
-		"name": "🍉瓜子┃秒播",
+		"name": "蓝光┃超速",
 		"type": 3,
 		"api": "csp_Gz360",
 		"searchable": 1,
@@ -81,7 +73,7 @@
 	  },
 	  {
 		"key": "csp_DUODUO",
-		"name": "💨多多┃秒播",
+		"name": "蓝光┃高清",
 		"type": 3,
 		"quickSearch": 1,
 		"api": "csp_MiTuApp",
