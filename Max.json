@@ -13,16 +13,7 @@
       "filterable": 1,
       "order_num": 0,
       "changeable": 0
-    },
-    {
-      "key": "csp_Wwys",
-      "name": "蓝光┃立播",
-      "type": 3,
-      "playerType": 2,
-      "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/"
-    },
+    }，
     {
       "key": "csp_MiTuApp",
       "name": "蓝光┃超清",
