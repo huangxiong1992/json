@@ -5,6 +5,16 @@
   "warningText": "摸鱼儿：资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
     {
+      "key": "真心影视",
+      "name": "蓝光┃超清",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "alllive",
       "name": "游戏┃直播",
       "type": 3,
@@ -16,7 +26,7 @@
     },
     {
       "key": "二三",
-      "name": "蓝光┃备用",
+      "name": "蓝光┃高清",
       "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
       "type": 3,
       "api": "csp_Muou",
@@ -25,7 +35,7 @@
     },
     {
       "key": "洽洽影视",
-      "name": "蓝光┃立播",
+      "name": "蓝光┃秒播",
       "type": 3,
       "api": "csp_AppGZ",
       "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
@@ -59,18 +69,8 @@
       }
     },
     {
-      "key": "真心影视",
-      "name": "蓝光┃秒播",
-      "type": 3,
-      "api": "csp_WebGZ",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "贱贱",
-      "name": "🐭贱贱┃P2P┃纯净",
+      "name": "蓝光┃速播",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -81,7 +81,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃不卡┃纯净",
+      "name": "蓝光┃立播",
       "type": 3,
       "api": "csp_NewCz",
       "timeout": 15,
@@ -103,7 +103,7 @@
     },
     {
       "key": "星芽短剧",
-      "name": "🌟蓝光┃短剧┃热推",
+      "name": "🌟蓝光┃短剧",
       "type": 3,
       "api": "csp_AppXY",
       "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
@@ -113,7 +113,7 @@
     },
     {
       "key": "Bili",
-      "name": "蓝光┃娱乐",
+      "name": "蓝光┃综合",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -129,7 +129,7 @@
     },
     {
       "key": "Biliych",
-      "name": "蓝光┃音乐",
+      "name": "蓝光┃娱乐",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -206,31 +206,6 @@
       "ext": {
         "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=高中课堂"
       }
-    },
-    {
-      "key": "荐片弹幕",
-      "name": "蓝光┃超清",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "荐片",
-      "name": "蓝光┃纯净",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "push_agent",
