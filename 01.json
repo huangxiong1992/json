@@ -16,7 +16,7 @@
     },
     {
       "key": "真心影视",
-      "name": "蓝光┃速清",
+      "name": "蓝光┃备用",
       "type": 3,
       "api": "csp_WebGZ",
       "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
@@ -36,7 +36,7 @@
     },
     {
       "key": "二三",
-      "name": "蓝光┃立清",
+      "name": "蓝光┃速播",
       "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
       "type": 3,
       "api": "csp_Muou",
@@ -66,7 +66,7 @@
     },
     {
       "key": "厂长",
-      "name": "蓝光┃高速",
+      "name": "蓝光┃立播",
       "type": 3,
       "api": "csp_NewCz",
       "timeout": 15,
