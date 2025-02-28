@@ -112,15 +112,6 @@
         "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
       }
     },
-    {
-      "key": "Biliych",
-      "name": "音乐┃综合",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
