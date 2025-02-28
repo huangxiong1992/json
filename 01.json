@@ -112,13 +112,6 @@
         "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
       }
     },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=mtv"
-      }
-    },
     {
       "key": "少儿教育",
       "name": "幼儿｜启蒙",
