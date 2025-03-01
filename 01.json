@@ -24,16 +24,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "alllive",
-      "name": "游戏┃直播",
-      "type": 3,
-      "api": "csp_Alllive",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+    {"key":"荐片","name":"🧲荐片纯净┃磁力","type":3,"api":"csp_Jianpian","jar":"http://我不是.摸鱼儿.com/by/jar/PizazzGY.php","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "二三",
       "name": "蓝光┃速播",
