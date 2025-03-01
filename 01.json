@@ -5,24 +5,13 @@
   "warningText": "摸鱼儿：资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
     {
-      "key": "洽洽影视",
+      "key": "二三",
       "name": "蓝光┃秒播",
-      "type": 3,
-      "api": "csp_AppGZ",
       "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "真心影视",
-      "name": "蓝光┃备用",
       "type": 3,
-      "api": "csp_WebGZ",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
     },
     {
       "key": "alllive",
@@ -33,48 +22,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "二三",
-      "name": "蓝光┃速播",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
-    },
-    {
-      "key": "韩小圈",
-      "name": "蓝光┃韩剧",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "贱贱",
-      "name": "蓝光┃超清",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-    },
-    {
-      "key": "厂长",
-      "name": "蓝光┃立播",
-      "type": 3,
-      "api": "csp_NewCz",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy77.com/"
     },
     {
       "key": "新6V",
@@ -95,86 +42,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "Bili",
-      "name": "蓝光┃综合",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
-      }
-    },
-    {
-      "key": "少儿教育",
-      "name": "幼儿｜启蒙",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=少儿教育"
-      }
-    },
-    {
-      "key": "小学课堂",
-      "name": "小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=小学教育"
-      }
-    },
-    {
-      "key": "初中课堂",
-      "name": "初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=初中课堂"
-      }
-    },
-    {
-      "key": "高中教育",
-      "name": "高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=高中课堂"
-      }
     },
     {
       "key": "push_agent",
