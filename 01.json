@@ -2,17 +2,6 @@
   "spider": "http://pan.losfer.cn/down.php/eb7676582d076a5505be5f23530e4f4d.",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "logo": "https://cccimg.com/view.php/bfee80ea88d141a36b4a9b7974926b1a.png",
-  "lives": [
-    {
-      "name": "华夏TV",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jt/refs/heads/main/jttv.txt",
-      "ua": "okhttp/4.1.0",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://cccimg.com/view.php/bfee80ea88d141a36b4a9b7974926b1a.png"
-    }
-  ],
   "sites": [
       {
       "key": "瓜子影视1",
