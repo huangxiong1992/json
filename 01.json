@@ -4,10 +4,10 @@
   "logo": "https://cccimg.com/view.php/bfee80ea88d141a36b4a9b7974926b1a.png",
   "lives": [
     {
-      "name": "私人直播",
+      "name": "华夏TV",
       "type": 0,
       "playerType": 2,
-      "url": "https://cccimg.com/down.php/9844de93a51268806c7c662a2497f134.txt&8682",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jt/refs/heads/main/jttv.txt",
       "ua": "okhttp/4.1.0",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://cccimg.com/view.php/bfee80ea88d141a36b4a9b7974926b1a.png"
