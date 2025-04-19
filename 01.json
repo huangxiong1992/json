@@ -16,13 +16,30 @@
   "sites": [
       {
       "key": "瓜子影视1",
-      "name": "🍎瓜子影视",
+      "name": "华夏|秒播",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428"
+    },
+      {
+      "key": "量子资源",
+      "name": "华夏|速播",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "前线短剧",
+      "name": "华夏|短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
     },
   {
       "key": "csp_Douban",
@@ -504,15 +521,6 @@
       "ext": "http://www.meowtv.cn/js/meow.php?file=blzb"
     },
     {
-      "key": "前线短剧",
-      "name": "🍎前线短剧",
-      "type": 3,
-      "api": "csp_AppXY",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "csp_XYQHiker_爱你短剧",
       "name": "🍎爱你短剧",
       "type": 3,
@@ -565,14 +573,6 @@
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://bfzyplayer.com/player/?url=",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "量子资源",
-      "name": "💞量子资源",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
