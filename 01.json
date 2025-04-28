@@ -22,7 +22,7 @@
 		},
 		{
 			"key": "荐片",
-			"name": "华夏|蓝光A",
+			"name": "蓝光A",
 			"api": "csp_Jianpian",
 			"type": 3,
 			"playerType": 1,
@@ -31,7 +31,7 @@
 		
 		{
 			"key": "热播影视",
-			"name": "华夏|蓝光B",
+			"name": "蓝光B",
 			"type": 3,
 			"api": "csp_AppRJ",
 			"searchable": 1,
@@ -45,7 +45,7 @@
 		
 		{
 			"key": "苹果影视",
-			"name": "华夏|蓝光C",
+			"name": "蓝光C",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,
@@ -55,7 +55,7 @@
 		
 		{
 			"key": "星芽短剧",
-			"name": "华夏短剧┃短剧",
+			"name": "蓝光┃短剧",
 			"type": 3,
 			"api": "csp_AppXY",
 			"searchable": 1,
@@ -67,7 +67,7 @@
 		
 		{
 			"key": "1905",
-			"name": "华夏|1905",
+			"name": "蓝光|1905",
 			"type": 3,
 			"api": "csp_Web1905",
 			"searchable": 1,
