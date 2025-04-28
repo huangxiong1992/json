@@ -4,7 +4,8 @@
 	"wallpaper": "http://api.suxun.site/api/img?s=pc&k=fengjing",
 	"logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725712769296/%E9%A3%8E%E8%BD%A6new.gif",
 	"warningText": "接口完全免费，切勿贩卖购买",
-	"sites": [{
+	"sites": [
+       {
 			"key": "豆瓣",
 			"name": "🍥┃豆瓣┃仅供测试，请于测试完毕后删除🍥",
 			"type": 3,
