@@ -5,11 +5,13 @@
 	"logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725712769296/%E9%A3%8E%E8%BD%A6new.gif",
 	"warningText": "接口完全免费，切勿贩卖购买",
 	"sites": [{
-			"key": "糯米影视",
-			"name": "华夏|秒播",
+			"key": "瓜子影视",
+			"name": "蓝光|秒播",
 			"type": 3,
-			"api": "csp_Wwys",
-			"ext": "https://www.wwgz.cn"
+			"api": "csp_Gz360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "预告",
@@ -61,15 +63,7 @@
 			"filterable": 0
 		},
 		
-		{
-			"key": "瓜子影视",
-			"name": "华夏|备用一",
-			"type": 3,
-			"api": "csp_Gz360",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		
 		{
 			"key": "1905",
@@ -79,6 +73,13 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0
+		},
+		{
+			"key": "糯米影视",
+			"name": "蓝光|备用",
+			"type": 3,
+			"api": "csp_Wwys",
+			"ext": "https://www.wwgz.cn"
 		}
 	],
 	"parses": [{
