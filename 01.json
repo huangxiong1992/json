@@ -5,11 +5,11 @@
 	"logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725712769296/%E9%A3%8E%E8%BD%A6new.gif",
 	"warningText": "接口完全免费，切勿贩卖购买",
 	"sites": [{
-			"key": "豆瓣",
-			"name": "华夏|长期维护 如卡顿请换源",
+			"key": "糯米影视",
+			"name": "华夏|秒播",
 			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0
+			"api": "csp_Wwys",
+			"ext": "https://www.wwgz.cn"
 		},
 		{
 			"key": "预告",
@@ -20,22 +20,16 @@
 		},
 		{
 			"key": "荐片",
-			"name": "⏳┃荐片┃磁力",
+			"name": "华夏|蓝光A",
 			"api": "csp_Jianpian",
 			"type": 3,
 			"playerType": 1,
 			"ext": "http://api2.rinhome.com"
 		},
-		{
-			"key": "糯米影视",
-			"name": "🌞┃旺旺┃影视",
-			"type": 3,
-			"api": "csp_Wwys",
-			"ext": "https://www.wwgz.cn"
-		},
+		
 		{
 			"key": "热播影视",
-			"name": "🐠┃热播┃秒播",
+			"name": "华夏|蓝光B",
 			"type": 3,
 			"api": "csp_AppRJ",
 			"searchable": 1,
@@ -49,7 +43,7 @@
 		
 		{
 			"key": "苹果影视",
-			"name": "🍎┃苹果┃盒子",
+			"name": "华夏|蓝光C",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,
@@ -59,7 +53,7 @@
 		
 		{
 			"key": "星芽短剧",
-			"name": "🌟┃星芽┃短剧",
+			"name": "华夏短剧┃短剧",
 			"type": 3,
 			"api": "csp_AppXY",
 			"searchable": 1,
@@ -69,7 +63,7 @@
 		
 		{
 			"key": "瓜子影视",
-			"name": "🍈┃瓜子┃影视",
+			"name": "华夏|备用一",
 			"type": 3,
 			"api": "csp_Gz360",
 			"searchable": 1,
@@ -79,7 +73,7 @@
 		
 		{
 			"key": "1905",
-			"name": "🎦┃央妈┃电影",
+			"name": "华夏|1905",
 			"type": 3,
 			"api": "csp_Web1905",
 			"searchable": 1,
