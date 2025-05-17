@@ -95,20 +95,6 @@
       }
     },
     {
-      "key": "文才",
-      "name": "蓝光┃高清",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
       "key": "厂长弹幕版",
       "name": "蓝光┃热播",
       "type": 3,
