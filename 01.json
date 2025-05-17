@@ -18,11 +18,14 @@
 "timeout":10},
 {"key":"厂长弹幕版","name":"蓝光┃热播","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
 "timeout":10},
-"key":"csp_SP360","name":"👑360官源👑","type":3,
+{"key":"厂长弹幕版","name":"蓝光┃热播","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
+{"key":"厂长弹幕版","name":"蓝光┃热播","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
+{"key":"厂长弹幕版","name":"蓝光┃热播","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
+{"key":"csp_SP360","name":"👑360官源👑","type":3,
 "playerType":2,
 "api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
        
- {"key":"drpy_js_腾云驾雾","name":"👑腾腾官源👑","type":3,"playerType":2,
+{"key":"drpy_js_腾云驾雾","name":"👑腾腾官源👑","type":3,"playerType":2,
  "api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
 
 {"key":"drpy_js_百忙无果","name":"👑芒芒官源👑","type":3,"playerType":2,
