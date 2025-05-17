@@ -1,5 +1,6 @@
 
 
+
 {
 "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
@@ -18,53 +19,12 @@
 "timeout":10},
 {"key":"厂长弹幕版","name":"蓝光┃热播","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
 "timeout":10},
-{"key":"厂长弹幕版","name":"蓝光┃热播","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
-{"key":"厂长弹幕版","name":"蓝光┃热播","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
-{"key":"厂长弹幕版","name":"蓝光┃热播","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
-{"key":"csp_SP360","name":"👑360官源👑","type":3,
-"playerType":2,
-"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-       
-{"key":"drpy_js_腾云驾雾","name":"👑腾腾官源👑","type":3,"playerType":2,
- "api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
-
-{"key":"drpy_js_百忙无果","name":"👑芒芒官源👑","type":3,"playerType":2,
-"api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
-
-{"key":"drpy_js_奇珍异兽","name":"👑艺艺官源👑","type":3,"playerType":2,
-"api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},
-
-{"key":"drpy_yh","name":"👑优优官源👑","type":3,"playerType":2,"api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E4%BC%98%E9%85%B7.js"},
-{
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "4K🥇️",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "jar": "http://154.40.47.87:999/uploads/jctv/jctv.jar",
-      "playerType": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx.js"
-    },
-    {
-      "key": "hipy_js_百忙无果[官]",
-      "name": "4K🎫",
-      "type": 3,
-      "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
-      "playerType": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://154.40.47.87:999/uploads/tvbox/js/百忙无果[官].js"
-    },
 {
       "key": "✨毒舌短剧✨",
       "name": "✨毒舌短剧✨",
       "type": 3,
-      "api": "csp_XBPQ",  
+      "api": "csp_XBPQ",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/4k.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
