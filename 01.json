@@ -104,13 +104,13 @@
       }
     },
     {
-      "key": "热门",
+      "key": "天天",
       "name": "热门┃秒播",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lh.jar;md5;6878c4945c8ddfa80b052f14311377f2",
-      "ext": "caHR0cDovL3YucmJvdHYuY24="
+      "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
     {
       "key": "韩圈",
