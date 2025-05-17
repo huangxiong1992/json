@@ -27,7 +27,7 @@
       "order_num": 0,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/mg.js"
     },
-    {"key":"瓜子","name":"蓝光┃秒播","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47","ext":{"danmu":true},
+    {"key":"瓜子","name":"蓝光┃秒播","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar","ext":{"danmu":true},
     {
       "key": "浪酷弹幕",
       "name": "浪酷",
