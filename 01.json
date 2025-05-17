@@ -3,6 +3,30 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "豆瓣｜资源",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/dob.jar",
+      "searchable": 0
+    },
+    {
+      "key": "tt",
+      "name": "4K｜影视",
+      "type": 3,
+      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/dob.jar",
+      "ext": "http://150.158.112.123/jar/tx.js"
+    },
+    {
+      "key": "小慧",
+      "name": "小慧｜4K",
+      "type": 1,
+      "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/dob.jar",
+      "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
+    },
+    {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "华夏|4K",
       "type": 3,
