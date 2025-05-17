@@ -54,8 +54,8 @@
       }
     },
     {
-      "key": "蓝光┃速播",
-      "name": "浪酷",
+      "key": ""浪酷",
+      "name": "蓝光┃速播",
       "type": 3,
       "api": "csp_TianTian",
       "searchable": 1,
@@ -64,20 +64,6 @@
       "ext": {
         "danmu": true,
         "site": "aHR0cDovL3YubGt1eXMuY24="
-      }
-    },
-    {
-      "key": "文才",
-      "name": "蓝光┃极速",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
       }
     },
     {
@@ -161,22 +147,8 @@
       "ext": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/json/毒舌短剧.json"
     },
     {
-      "key": "yhdm",
-      "name": "动漫｜A",
-      "type": 3,
-      "api": "csp_YHDMGuard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
       "key": "动漫巴士",
-      "name": "动漫｜B",
+      "name": "动漫｜A",
       "type": 3,
       "api": "csp_Dm84Guard",
       "playerType": 1,
@@ -190,7 +162,7 @@
     },
     {
       "key": "曼波动漫",
-      "name": "动漫｜C",
+      "name": "动漫｜B",
       "type": 3,
       "api": "csp_AppGetApp",
       "searchable": 1,
