@@ -26,12 +26,12 @@
       "name": "4K🥇️",
       "type": 3,
       "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/4k.jar",
       "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/4k.jar",
       "ext": "http://154.40.47.87:999/uploads/tvbox/js/腾云驾雾[官].js"
 	},
 	{
@@ -39,7 +39,6 @@
       "name": "4K🎫",
       "type": 3,
       "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/4k.jar",
       "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
