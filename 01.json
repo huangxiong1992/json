@@ -70,15 +70,6 @@
       }
     },
     {
-      "key": "HD",
-      "name": "蓝光┃速播",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lh.jar;md5;6878c4945c8ddfa80b052f14311377f2",
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-    },
-    {
       "key": "浪酷",
       "name": "蓝光┃极速",
       "type": 3,
@@ -89,20 +80,6 @@
       "ext": {
         "danmu": true,
         "site": "aHR0cDovL3YubGt1eXMuY24="
-      }
-    },
-    {
-      "key": "文才",
-      "name": "蓝光┃高清",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
       }
     },
     {
