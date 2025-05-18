@@ -15,7 +15,7 @@
       "name": "小慧｜4K",
       "type": 1,
       "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/dob.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",
       "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
     },
     {
