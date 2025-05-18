@@ -48,17 +48,16 @@
       }
     },
     {
-      "key": "瓜子",
-      "name": "蓝光┃秒播",
+      "key": "hipy_js_guazi",
+      "name": "华夏｜秒播",
       "type": 3,
-      "api": "csp_GuaziGuard",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
+      "order_num": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/guazi.js"
     },
     {
       "key": "浪酷",
