@@ -3,14 +3,6 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "豆瓣｜资源",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/dob.jar",
-      "searchable": 0
-    },
-    {
       "key": "tt",
       "name": "4K｜影视",
       "type": 3,
