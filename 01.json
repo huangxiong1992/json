@@ -75,13 +75,12 @@
             "type": 3,
             "api": "csp_FourK",
             "searchable": 1,
-            "quickSearch": 1,
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
             "ext": "https://www.4kvm.tv"
         },
      {
             "key": "瓜子",
-            "name": "瓜子｜影视",
+            "name": "瓜子",
             "type": 3,
             "api": "csp_Gz360",
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
