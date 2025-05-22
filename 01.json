@@ -7,8 +7,6 @@
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"热播┃如遇卡顿点击换源","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
-{"key":"瓜子","name":"蓝光┃秒播","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
-"timeout":10},
 {"key":"文才","name":"蓝光┃速播","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
 "timeout":10},
 {"key":"浪酷弹幕版","name":"蓝光┃多线","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":2},
@@ -80,7 +78,7 @@
         },
      {
             "key": "瓜子",
-            "name": "瓜子",
+            "name": "秒播",
             "type": 3,
             "api": "csp_Gz360",
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
@@ -124,6 +122,77 @@
       "changeable": 2,
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/58cbbf5395d4468cb4180b57c2834102.jpg"
+    },
+    {
+      "key": "csp_Kugou",
+      "name": "酷狗｜听歌",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/kug.jar",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+    {
+      "key": "央视大全",
+      "name": "央视｜大全",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
+    },
+    {
+      "key": "央视经济",
+      "name": "央视｜经济",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysjj.js"
+    },
+    {
+      "key": "央视新闻",
+      "name": "央视｜新闻",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xw.js"
+    },
+    {
+      "key": "央视综合",
+      "name": "央视｜综合",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/yszh.js"
+    },
+    {
+      "key": "央视少儿",
+      "name": "央视｜少儿",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysse.js"
     },
     {
       "key": "相声小品",
