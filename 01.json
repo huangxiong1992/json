@@ -36,57 +36,71 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/mg.js"
     },
     {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "4K🥇️",
-      "type": 3,
-      "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
-      "playerType": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://154.40.47.87:999/uploads/tvbox/js/腾云驾雾[官].js"
-    },
-    {
-      "key": "hipy_js_百忙无果[官]",
-      "name": "4K🎫",
-      "type": 3,
-      "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
-      "playerType": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://154.40.47.87:999/uploads/tvbox/js/百忙无果[官].js"
-    },
-    {
       "key": "hipy_js_陆游4k",
       "name": "陆游4k1",
       "type": 3,
-      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "http://150.158.112.123/jar/tx4k.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx4k.js"
     },
     {
-      "key": "陆游4k",
-      "name": "陆游4k2",
+      "key": "央视大全",
+      "name": "央视｜大全",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/js/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/js/mgtv.js"
-    },
-    {
-      "key": "hipy_js_ytgz4k",
-      "name": "🍉瓜子┃专线",
-      "type": 3,
-      "api": "https://gitee.com/hu-congrong/lxbsc/raw/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子.js"
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
+    },
+    {
+      "key": "央视经济",
+      "name": "央视｜经济",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysjj.js"
+    },
+    {
+      "key": "央视新闻",
+      "name": "央视｜新闻",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysxw.js"
+    },
+    {
+      "key": "央视综合",
+      "name": "央视｜综合",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/yszh.js"
+    },
+    {
+      "key": "央视少儿",
+      "name": "央视｜少儿",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysse.js"
     },
     {
       "key": "csp_xlys",
