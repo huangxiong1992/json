@@ -1,4 +1,4 @@
-
+`
     
     
 
@@ -18,6 +18,22 @@
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/tx.js"
+    },
+    {
+      "key": "腾讯弹幕",
+      "name": "🐧腾讯┃4K弹幕",
+      "type": 3,
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+      "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/TXDM.js"
+    },
+    {
+      "key": "芒果弹幕",
+      "name": "🥝芒果┃4K弹幕",
+      "type": 3,
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+      "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/MGDM.js"
     },
     {
             "key": "荐片弹幕版",
