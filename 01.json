@@ -53,6 +53,13 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/mg.js"
     },
     {
+      "key": "小慧",
+      "name": "小慧｜4K",
+      "type": 1,
+      "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
+      "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
+    },
+    {
             "key": "绝对影视",
             "name": "绝对｜影视",
             "type": 3,
