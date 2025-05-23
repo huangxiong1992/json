@@ -19,8 +19,6 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
     },
-{"key":"晴天弹幕版","name":"4k┃测试","type":3,"api":"csp_Sun4kGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
-"timeout":10},
   {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "华夏|4K",
@@ -35,7 +33,7 @@
     },
     {
       "key": "tt",
-      "name": "4K｜影视",
+      "name": "4K一",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",
@@ -43,9 +41,10 @@
     },
     {
       "key": "hipy_js_百忙无果[官]",
-      "name": "4K|专区",
+      "name": "4K二",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",
       "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
