@@ -10,9 +10,11 @@
 {"key":"豆瓣","name":"热播┃如遇卡顿点击换源","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
 {"key":"瓜子","name":"蓝光┃秒播","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
 "timeout":10},
+{"key":"文才","name":"蓝光┃速播","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
+"timeout":10},
 {
       "key": "农民影视",
-      "name": "蓝光┃速播",
+      "name": "蓝光┃立播",
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/nmin.jar",
       "type": 3,
       "quickSearch": 1,
@@ -25,37 +27,6 @@
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/tx.js"
-    },
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "4K二",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "playerType": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx.js"
-    },
-    {
-      "key": "hipy_js_百忙无果[官]",
-      "name": "4K三",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "playerType": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/mg.js"
-    },
-    {
-      "key": "小慧",
-      "name": "小慧｜4K",
-      "type": 1,
-      "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
-      "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
     },
     {
             "key": "绝对影视",
