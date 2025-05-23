@@ -13,7 +13,7 @@
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
-      "name": "4K1",
+      "name": "4K一",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "playerType": 3,
@@ -25,7 +25,7 @@
     },
     {
       "key": "hipy_js_百忙无果[官]",
-      "name": "4K2",
+      "name": "4K二",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "playerType": 3,
@@ -37,7 +37,7 @@
     },
     {
       "key": "hipy_js_陆游4k",
-      "name": "4k备用",
+      "name": "4k三",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "searchable": 1,
@@ -103,6 +103,32 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysse.js"
     },
     {
+      "key": "瓜子",
+      "name": "蓝光┃秒播",
+      "type": 3,
+      "api": "csp_GuaziGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "蓝光┃速播",
+      "name": "浪酷",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
+    },
+    {
       "key": "量子",
       "name": "蓝光A",
       "type": 1,
@@ -147,6 +173,15 @@
       ]
     },
     {
+      "key": "云盘",
+      "name": "蓝光B",
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/YP.jar",
+      "api": "csp_YDjisu",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "荐片弹幕",
       "name": "蓝光C",
       "type": 3,
@@ -155,32 +190,22 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://154.40.47.87:999/uploads/tvbox/jar/wydm.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jps.jar",
       "ext": {
         "danmu": true
       }
     },
     {
-      "key": "文才弹幕",
-      "name": "文才",
+      "key": "欢视",
+      "name": "👓欢视┃多线",
       "type": 3,
-      "api": "csp_Jpys",
-      "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
+      "api": "csp_AppTT",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "云盘",
-      "name": "云盘",
-      "type": 3,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/YP.jar",
-      "api": "csp_YDjisu",
-      "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/hsdx.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
+      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
     },
     {
       "key": "曼波动漫",
