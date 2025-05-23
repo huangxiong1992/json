@@ -66,7 +66,7 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
             "ext": "https://www.4kvm.tv"
         },
-    {
+        {
             "key": "1905",
             "name": "1905｜影视",
             "type": 3,
@@ -91,7 +91,7 @@
 "timeout":10},
 {"key":"88看球","name":"88┃看球","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":0,"style":{"type":"list"},
 "timeout":10},
-     {
+{
       "key": "哔哩哔哩",
       "name": "哔哩｜分类",
       "type": 3,
