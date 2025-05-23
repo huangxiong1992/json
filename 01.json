@@ -1,62 +1,58 @@
-
-
 {
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/4k.jar",
+  "spider": "http://154.40.47.87:999/uploads/jctv/jctv.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "hipy_js_腾云驾雾[官]",
-      "name": "华夏|4K",
+      "name": "4K🥇️",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
       "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx.js"
+      "ext": "http://154.40.47.87:999/uploads/tvbox/js/腾云驾雾[官].js"
     },
     {
       "key": "hipy_js_百忙无果[官]",
-      "name": "4K|专区",
+      "name": "4K🎫",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
       "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/mg.js"
+      "ext": "http://154.40.47.87:999/uploads/tvbox/js/百忙无果[官].js"
     },
     {
-      "key": "晴天弹幕版",
-      "name": "4K┃备用",
+      "key": "csp_xlys",
+      "name": "直连",
       "type": 3,
-      "api": "csp_Sun4kGuard",
+      "api": "csp_Bdys01",
+      "searchable": 1,
       "playerType": 1,
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742010424920/巧记.jar",
+      "filterable": 0,
+      "ext": "maHR0cHM6Ly93d3cueGx5czAyLmNvbQ=="
     },
     {
-      "key": "瓜子",
-      "name": "蓝光┃秒播",
+      "key": "热播弹幕",
+      "name": "热播",
       "type": 3,
-      "api": "csp_GuaziGuard",
+      "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
       "ext": {
-        "danmu": true
+        "danmu": true,
+        "site": "aHR0cDovL3YucmJvdHYuY24="
       }
     },
     {
-      "key": "蓝光┃速播",
+      "key": "浪酷弹幕",
       "name": "浪酷",
       "type": 3,
       "api": "csp_TianTian",
@@ -69,22 +65,17 @@
       }
     },
     {
-      "key": "文才",
-      "name": "蓝光┃极速",
+      "key": "快看影视",
+      "name": "快看",
       "type": 3,
-      "api": "csp_JpysGuard",
-      "playerType": 1,
+      "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
+      "filterable": 1
     },
     {
       "key": "荐片弹幕",
-      "name": "蓝光┃无广",
+      "name": "荐片",
       "type": 3,
       "api": "csp_Jianpian",
       "playerType": 1,
@@ -97,64 +88,30 @@
       }
     },
     {
-      "key": "厂长弹幕版",
-      "name": "蓝光┃热播",
+      "key": "文才弹幕",
+      "name": "文才",
       "type": 3,
-      "api": "csp_CzzyGuard",
-      "playerType": 1,
+      "api": "csp_Jpys",
+      "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
       "ext": {
         "danmu": true
       }
     },
     {
-      "key": "韩圈",
-      "name": "蓝光┃韩剧",
+      "key": "云盘",
+      "name": "云盘",
       "type": 3,
-      "api": "csp_HanXiaoQuanGuard",
-      "playerType": 1,
+      "jar": "https://lz.qaiu.top/lz/isqWQ2hstv0d",
+      "api": "csp_YDjisu",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "星芽短剧",
-      "name": "短剧┃A",
-      "type": 3,
-      "api": "csp_AppXYGuard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "甜圈短剧",
-      "name": "短剧┃B",
-      "type": 3,
-      "api": "csp_TianQuanGuard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
+      "changeable": 1
     },
     {
       "key": "✨毒舌短剧✨",
-      "name": "短剧┃C",
+      "name": "✨毒舌短剧✨",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -163,108 +120,14 @@
       "ext": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/json/毒舌短剧.json"
     },
     {
-      "key": "yhdm",
-      "name": "动漫｜A",
-      "type": 3,
-      "api": "csp_YHDMGuard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "动漫巴士",
-      "name": "动漫｜B",
-      "type": 3,
-      "api": "csp_Dm84Guard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
       "key": "曼波动漫",
-      "name": "动漫｜C",
+      "name": "🤣曼波｜动漫",
       "type": 3,
       "api": "csp_AppGetApp",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
-    },
-    {
-      "key": "快手直播",
-      "name": "快快┃直播",
-      "type": 3,
-      "api": "csp_KsLiveGuard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "bili",
-      "name": "哔哔┃合集",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "biliych",
-      "name": "哔哔┃歌曲",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "看球",
-      "name": "88┃看球",
-      "type": 3,
-      "api": "csp_KanqiuGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741945467175/0316.jar",
-      "order_num": 0,
-      "changeable": 0
-    },
-    {
-      "key": "drpy_js_310直播",
-      "name": "┃体育┃直播",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      },
-      "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
     },
     {
       "key": "健身",
@@ -276,6 +139,63 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/31c6620e61954b1395d81ca96fcaaf95.jpg"
+    },
+    {
+      "key": "看球",
+      "name": "🏀88┃看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741945467175/0316.jar",
+      "order_num": 0,
+      "changeable": 0
+    },
+    {
+      "key": "drpy_js_310直播",
+      "name": "🏀┃体育┃直播",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      },
+      "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
+    },
+    {
+      "key": "演唱会",
+      "name": "🅰️演唱会┃哔哩",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 142,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/演唱会.json"
+    },
+    {
+      "key": "戏曲",
+      "name": "🅰️戏曲┃合集",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 142,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/戏曲合集.json"
+    },
+    {
+      "key": "MV",
+      "name": "🌈歌曲┃哔哩",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 142,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/歌曲MV.json"
     },
     {
       "key": "cc",
