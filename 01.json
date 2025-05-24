@@ -4,16 +4,20 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "如遇卡顿点击换源",
+      "key": "hipy_js_陆游4k",
+      "name": "4k专区一",
       "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://lz.qaiu.top/d/lz/i0fR72vesc2f",
-      "searchable": 0
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx4k.js"
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
-      "name": "4K一",
+      "name": "4k专区二",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "playerType": 3,
@@ -25,7 +29,7 @@
     },
     {
       "key": "hipy_js_百忙无果[官]",
-      "name": "4K二",
+      "name": "4k专区三",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "playerType": 3,
@@ -34,40 +38,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/mg.js"
-    },
-    {
-      "key": "hipy_js_陆游4k",
-      "name": "4k三",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx4k.js"
-    },
-    {
-      "key": "央视大全",
-      "name": "央妈｜大全",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
-    },
-    {
-      "key": "央视经济",
-      "name": "央妈｜经济",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysjj.js"
     },
     {
       "key": "央视新闻",
@@ -79,6 +49,17 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysxw.js"
+    },
+    {
+      "key": "央视经济",
+      "name": "央妈｜经济",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysjj.js"
     },
     {
       "key": "央视综合",
@@ -103,6 +84,17 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysse.js"
     },
     {
+      "key": "央视大全",
+      "name": "央妈｜大全",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
+    },
+    {
       "key": "瓜子",
       "name": "蓝光┃秒播",
       "type": 3,
@@ -116,74 +108,8 @@
       }
     },
     {
-      "key": "浪酷",
-      "name": "蓝光┃速播",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "danmu": true,
-      "site": "aHR0cDovL3YubGt1eXMuY24="
-      }
-    },
-    {
-      "key": "量子",
-      "name": "蓝光A",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "体育",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克"
-      ]
-    },
-    {
-      "key": "云盘",
-      "name": "蓝光B",
-      "type": 3,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/YP.jar",
-      "api": "csp_YDjisu",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "荐片弹幕",
-      "name": "蓝光C",
+      "name": "蓝光A",
       "type": 3,
       "api": "csp_Jianpian",
       "playerType": 1,
@@ -196,36 +122,25 @@
       }
     },
     {
-      "key": "欢视",
-      "name": "👓欢视┃多线",
+      "key": "农民影视",
+      "name": "蓝光┃B",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/nmin.jar",
       "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/hsdx.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
-      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
     {
-      "key": "曼波动漫",
-      "name": "🤣曼波｜动漫",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
-    },
-    {
-      "key": "Dm84",
-      "name": "巴士┃动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+            "key": "1905",
+            "name": "1905｜影视",
+            "type": 3,
+            "api": "csp_Web1905",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
+            "searchable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
     {
       "key": "健身",
       "name": "休闲┃健身",
@@ -260,6 +175,174 @@
         "type": "list"
       },
       "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
+    },
+    {
+      "key": "戏曲",
+      "name": "戏曲｜大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg"
+    },
+    {
+      "key": "梨园",
+      "name": "梨园｜戏曲",
+      "type": 3,
+      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",  
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/983ec95b8248461cad620063864b21cd.jpg"
+    },
+    {
+      "key": "相声小品",
+      "name": "相声｜小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
+    },
+    {
+      "key": "国学",
+      "name": "国学｜经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/1203091da6cb4dc58fb39e7af03ffbf3.jpg"
+    },
+    {
+      "key": "百科",
+      "name": "百科｜全书",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,  
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/830e33a6b9f140eab57b298f85b85cb1.jpg"
+    },
+    {
+      "key": "地理",
+      "name": "全球｜地理",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1, 
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/e5509817319e446ba2b13f3c3d6b0d2e.jpg"
+    },
+    {
+      "key": "科学",
+      "name": "科学｜发明",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/15c23182b6fb415ea8314a6dc663b2d0.jpg"
+    },
+    {
+      "key": "外语",
+      "name": "外语｜教学",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/11ac56458b5049bbaddf42c9cea883da.jpg"
+    },
+    {
+      "key": "幼儿",
+      "name": "幼儿｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/f6ca5e8d2f054df69a52d01b58bb9c5e.jpg"
+    },
+    {
+      "key": "小学",
+      "name": "小学｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/3bbf4afa303f403eb89b6489b1958f93.jpg"
+    },
+    {
+      "key": "初中",
+      "name": "初中｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/75760f1471bc4180a49ce13b7105d834.jpg"
+    },
+    {
+      "key": "高中",
+      "name": "高中｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/53c803b0532c462fb2d2c3c641ba357b.jpg"
+    },
+    {
+      "key": "哔哩直播",
+      "name": "哔哩｜直播",
+      "type": 3,
+      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",  
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/82d4b21cc0d8492898457b256010bd98.jpg"
+    },
+    {
+      "key": "哔哩哔哩",
+      "name": "哔哩｜分类",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 2,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/58cbbf5395d4468cb4180b57c2834102.jpg"
+    },
+    {
+      "key": "csp_Kugou",
+      "name": "酷狗｜听歌",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/kug.jar",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
     },
     {
       "key": "cc",
