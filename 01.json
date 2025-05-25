@@ -12,20 +12,8 @@
       "searchable": 0
     },
     {
-      "key": "hipy_js_陆游4k",
-      "name": "4k专区一",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx4k.js"
-    },
-    {
       "key": "hipy_js_腾云驾雾[官]",
-      "name": "4k专区二",
+      "name": "4k专区一",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "playerType": 3,
@@ -37,7 +25,7 @@
     },
     {
       "key": "hipy_js_百忙无果[官]",
-      "name": "4k专区三",
+      "name": "4k专区二",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "playerType": 3,
