@@ -306,7 +306,7 @@
     },
     {
       "key": "哔哩哔哩",
-      "name": "哔哩｜专区一",
+      "name": "BL｜专区一",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
@@ -318,7 +318,7 @@
     },
     {
       "key": "bili",
-      "name": "BB｜专区二",
+      "name": "BL｜专区二",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -331,11 +331,11 @@
       "timeout":20
  },
  {
-      "key": "bili",
-      "name": "BB｜专区三",
+      "key": "biliych",
+      "name": "BL｜专区三",
       "type": 3,
       "api": "csp_BiliGuard",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "changeable": 2,
       "filterable": 1,
