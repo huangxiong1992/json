@@ -341,7 +341,7 @@
       "filterable": 1,
       "style":{"type":"rect","ratio":1.433},
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blgq.txt"
+      "ext":{"json":"https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/bigq.txt"},
       "timeout":20
     },
     {
