@@ -162,13 +162,13 @@
     },
     {
       "key": "看球",
-      "name": "🏀88┃看球",
+      "name": "88┃看球",
       "type": 3,
       "api": "csp_KanqiuGuard",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/88q.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/88.jar",
       "order_num": 0,
       "changeable": 0
     },
@@ -181,7 +181,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xq.txt"
     },
     {
       "key": "梨园",
@@ -192,7 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/983ec95b8248461cad620063864b21cd.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
     },
     {
       "key": "相声小品",
@@ -203,7 +203,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xsxp.txt"
     },
     {
       "key": "国学",
@@ -214,7 +214,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/1203091da6cb4dc58fb39e7af03ffbf3.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/gx.txt"
     },
     {
       "key": "百科",
@@ -225,7 +225,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,  
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/830e33a6b9f140eab57b298f85b85cb1.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/bk.txt"
     },
     {
       "key": "地理",
@@ -236,7 +236,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1, 
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/e5509817319e446ba2b13f3c3d6b0d2e.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/dl.txt"
     },
     {
       "key": "科学",
@@ -247,7 +247,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/15c23182b6fb415ea8314a6dc663b2d0.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/dl.txt"
     },
     {
       "key": "外语",
@@ -258,7 +258,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/11ac56458b5049bbaddf42c9cea883da.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/wyxx.txt"
     },
     {
       "key": "幼儿",
@@ -269,7 +269,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/f6ca5e8d2f054df69a52d01b58bb9c5e.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/yejy.txt"
     },
     {
       "key": "小学",
@@ -280,7 +280,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/3bbf4afa303f403eb89b6489b1958f93.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xx.txt"
     },
     {
       "key": "初中",
@@ -291,7 +291,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/75760f1471bc4180a49ce13b7105d834.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/czh.txt"
     },
     {
       "key": "高中",
@@ -302,15 +302,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/53c803b0532c462fb2d2c3c641ba357b.jpg"
-    },
-    {
-      "key": "哔哩直播",
-      "name": "哔哩｜直播",
-      "type": 3,
-      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",  
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/82d4b21cc0d8492898457b256010bd98.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/gzh.txt"
     },
     {
       "key": "哔哩哔哩",
@@ -322,7 +314,7 @@
       "quickSearch": 1,
       "changeable": 2,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/58cbbf5395d4468cb4180b57c2834102.jpg"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
     },
     {
       "key": "csp_Kugou",
