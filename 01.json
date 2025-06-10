@@ -12,6 +12,17 @@
       "searchable": 0
     },
     {
+      "key": "木耳",
+      "name": "🎠┃木耳┃影视",
+      "type": 3,
+      "api": "csp_Hmer",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/fm.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
       "key": "荐片弹幕",
       "name": "荐片影视",
       "type": 3,
