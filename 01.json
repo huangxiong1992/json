@@ -1,3 +1,6 @@
+
+
+
 {
   "spider": "http://154.40.47.87:999/uploads/jctv/jctv.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
@@ -18,19 +21,19 @@
       "key": "央视大全",
       "name": "央妈｜大全",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
     },
     {
       "key": "瓜子影视",
       "name": "蓝光｜秒播",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -52,12 +55,12 @@
       "key": "金牌影视",
       "name": "蓝光｜金牌",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jinp.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jinp.jar",
       "ext": {
       "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
     },
@@ -66,7 +69,7 @@
       "name": "蓝光┃短剧",
       "type": 3,
       "api": "csp_AppXY",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
       "searchable": 1,
        "quickSearch": 0,
        "filterable": 0
@@ -90,11 +93,11 @@
       "name": "外剧|大全（有广勿信）",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/tvkj.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/tvkj.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playurl": "json:https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/urllz.txt",
+      "playurl": "json:https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/urllz.txt",
       "categories": [
         "国产剧",
         "国产动漫",
@@ -125,9 +128,9 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/tvkj.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/tvkj.jar",
       "ext": {
-        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blhj.json",
+        "json": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blhj.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
     },
@@ -167,7 +170,7 @@
       "name": "酷狗｜听歌",
       "type": 3,
       "api": "csp_Kugou",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/kug.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/kug.jar",
       "playerType": 2,
       "ext": {
         "classes": [
@@ -183,40 +186,40 @@
       "name": "梨园｜戏曲",
       "type": 3,
       "api": "http://150.158.112.123/js/dr/drpy2.min.js",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",  
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
     },
     {
       "key": "相声小品",
       "name": "相声｜小品",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xsxp.txt"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xsxp.txt"
     },
     {
       "key": "国学",
       "name": "国学｜经典",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/gx.txt"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/gx.txt"
     },
     {
       "key": "兔小贝",
       "name": "启蒙┃教育",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/txb.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/txb.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -227,44 +230,44 @@
       "name": "幼儿｜教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/yejy.txt"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/yejy.txt"
     },
     {
       "key": "小学",
       "name": "小学｜教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xx.txt"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xx.txt"
     },
     {
       "key": "初中",
       "name": "初中｜教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/czh.txt"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/czh.txt"
     },
     {
       "key": "高中",
       "name": "高中｜教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/gzh.txt"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/gzh.txt"
     },
     {
       "key": "cc",
