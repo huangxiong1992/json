@@ -89,6 +89,26 @@
       }
     },
     {
+      "key": "素白白",
+      "name": "🐑┃白白┃影视",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": "https://www.subaibai.com"
+    },
+    
+    {
+      "key": "木耳",
+      "name": "🎠┃木耳┃影视",
+      "type": 3,
+      "api": "csp_Hmer",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/fm.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
       "key": "量子",
       "name": "外剧|大全（有广勿信）",
       "type": 1,
@@ -114,6 +134,30 @@
         "爱情片",
         "喜剧片"
       ]
+    },
+     {
+      "key": "蝴蝶",
+      "name": "蝴蝶｜拾光",
+      "type": 3,
+      "api": "csp_Hudie",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+    {
+      "key": "西瓜视频",
+      "name": "西瓜｜视频",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      }
     },
     {
       "key": "哔哩合集",
