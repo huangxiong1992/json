@@ -64,16 +64,6 @@
       "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
     },
     {
-      "key": "星芽短剧",
-      "name": "蓝光┃短剧",
-      "type": 3,
-      "api": "csp_AppXY",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "searchable": 1,
-       "quickSearch": 0,
-       "filterable": 0
-    },
-    {
       "key": "荐片弹幕",
       "name": "蓝光|超清",
       "type": 3,
@@ -89,73 +79,35 @@
     },
     {
       "key": "素白白",
-      "name": "🐑┃白白┃影视",
+      "name": "蓝光|立播",
       "type": 3,
       "api": "csp_SuBaiBai",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
       "ext": "https://www.subaibai.com"
     },
     {
-      "key": "木耳",
-      "name": "🎠┃木耳┃影视",
+      "key": "韩圈",
+      "name": "蓝光┃韩剧",
       "type": 3,
-      "api": "csp_Hmer",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/fm.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 30
-    },
-    {
-      "key": "量子",
-      "name": "外剧|大全（有广勿信）",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/tvkj.jar",
+      "api": "csp_HanXiaoQuanGuard",
+      "playerType":2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "playurl": "json:https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/urllz.txt",
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ]
-     },
-     {
-      "key": "蝴蝶",
-      "name": "蝴蝶｜拾光",
-      "type": 3,
-      "api": "csp_Hudie",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+      "filterable": 1,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
+      "ext":{"danmu":true},
+      "timeout":10
     },
     {
-      "key": "西瓜视频",
-      "name": "西瓜｜视频",
+      "key": "1905",
+      "name": "蓝光｜1905",
       "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
+      "api": "csp_Web1905",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
+      "searchable": 1,
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      }
+      "filterable": 0
     },
     {
       "key": "哔哩合集",
@@ -177,14 +129,26 @@
       }
     },
     {
-      "key": "✨毒舌短剧✨",
-      "name": "蓝光|短剧",
+      "key": "看球",
+      "name": "88┃看球",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "csp_KanqiuGuard",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/json/毒舌短剧.json"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/88.jar",
+      "order_num": 0,
+      "changeable": 0
+    },
+    {
+      "key": "星芽短剧",
+      "name": "蓝光┃短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "searchable": 1,
+       "quickSearch": 0,
+       "filterable": 0
     },
     {
       "key": "曼波动漫",
