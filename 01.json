@@ -228,7 +228,7 @@
       "name": "淘片┃YYDS",
       "type": 0,
       "api": "https://taopianapi.com/cjapi/mc/vod/xml"
-    },
+    }
   ],
   "parses": [
     {
