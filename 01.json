@@ -54,15 +54,6 @@
       }
     },
     {
-      "key": "金牌",
-      "name": "金牌┃YYDS",
-      "type": 3,
-      "api": "./A/金牌.py",
-      "ext": {
-        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-      }
-    },
-    {
       "key": "瓜子",
       "name": "瓜子┃YYDS",
       "type": 3,
@@ -83,130 +74,12 @@
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/NMYS.json"
     },
     {
-      "key": "南瓜",
-      "name": "南瓜┃YYDS",
-      "type": 3,
-      "api": "csp_NanGua",
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
-      "jar": "./A/qj0711.jar;md5;54418536dc2a40da4e94437397895d01"
-    },
-    {
-      "key": "蝴蝶",
-      "name": "蝴蝶┃YYDS",
-      "type": 3,
-      "api": "csp_Hudie",
-      "ext": "7lj763gg402i794255648kj0hj539g9hl7k6jk52ji",
-      "jar": "./A/qj0711.jar;md5;54418536dc2a40da4e94437397895d01"
-    },
-    {
-      "key": "剧猫",
-      "name": "剧猫┃YYDS",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
-      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
-      "key": "公共",
-      "name": "公共┃YYDS",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj",
-      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
-      "key": "爱尚",
-      "name": "爱尚┃YYDS",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg402i79420078j9qiaojiigg34hi291ljg5j60l9l0ik1l0jg86ljklgj5909404h",
-      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
-      "key": "巧技",
-      "name": "巧技⚡-4K-",
-      "type": 3,
-      "api": "csp_qiao2",
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
-      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
-      "key": "爆炸",
-      "name": "爆炸⚡-4K-",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7",
-      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
-      "key": "橘子",
-      "name": "橘子⚡-4K-",
-      "type": 3,
-      "api": "csp_Qiji",
-      "ext": "7lj763gg0939795i0678i481k40hi2i3ghlg840i9lj166700g1449g3k5244k2017h35698h4739ih31117kigil3k02hl2jk6i5155ih9kkgl311gl37g240g85111ggg2",
-      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
-      "key": "火猫",
-      "name": "火猫⚡-4K-",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602",
-      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
-      "key": "驿站",
-      "name": "驿站⚡-4K-",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh",
-      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
       "key": "云速",
       "name": "云速⚡-4K-",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752223235214/0711.gif;md5;05d526179fb3b9f8bb597e632b3a2273"
-    },
-    {
-      "key": "修罗",
-      "name": "修罗⚡-4K-",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/修罗.js"
-    },
-    {
-      "key": "狐狸",
-      "name": "狐狸⚡-4K-",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/狐狸.js"
-    },
-    {
-      "key": "荐片",
-      "name": "荐片⚡-4K-",
-      "type": 3,
-      "api": "./A/荐片.py"
-    },
-    {
-      "key": "零度",
-      "name": "零度⚡-4K-",
-      "type": 3,
-      "api": "./A/零度.py"
-    },
-    {
-      "key": "牛牛",
-      "name": "牛牛⚡-4K-",
-      "type": 3,
-      "api": "./A/牛牛.py"
-    },
-    {
-      "key": "开发",
-      "name": "开发⚡-4K-",
-      "type": 3,
-      "api": "./A/开发.py"
     },
     {
       "key": "仓鼠",
@@ -273,26 +146,6 @@
       }
     },
     {
-      "key": "天堂",
-      "name": "天堂⚡-4K-",
-      "type": 3,
-      "api": "csp_DyGod"
-    },
-    {
-      "key": "磁力",
-      "name": "磁力⚡-4K-",
-      "type": 3,
-      "api": "csp_New6v",
-      "ext": "https://www.xb6v.com"
-    },
-    {
-      "key": "影港",
-      "name": "影港⚡-4K-",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "./A/影港.js"
-    },
-    {
       "key": "猪猪",
       "name": "猪猪⚡-4K-",
       "type": 3,
@@ -313,18 +166,6 @@
       }
     },
     {
-      "key": "趣看",
-      "name": "趣看┃YYDS",
-      "type": 3,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "https://xjuzi.top",
-        "dataKey": "6a482a70b80eefc9",
-        "dataIv": "c995826a3e86fedd",
-        "jxurl": "https://www.ququkan.cc"
-      }
-    },
-    {
       "key": "萝卜",
       "name": "萝卜┃YYDS",
       "type": 3,
@@ -338,32 +179,6 @@
       }
     },
     {
-      "key": "诺映",
-      "name": "诺映┃YYDS",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.noad.top",
-        "dataKey": "708FA298F0855840",
-        "dataIv": "708FA298F0855840",
-        "deviceId": "2129ec9e6e5703cb0aeeddd79554e38f8",
-        "version": "103"
-      }
-    },
-    {
-      "key": "雨滴",
-      "name": "雨滴┃YYDS",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
-        "dataKey": "k9o3p2c8b7m3z0o8",
-        "dataIv": "k9o3p2c8b7m3z0o8",
-        "deviceId": "",
-        "version": "100"
-      }
-    },
-    {
       "key": "米诺",
       "name": "米诺┃YYDS",
       "type": 3,
@@ -372,20 +187,6 @@
         "url": "http://www.milkidc.cn",
         "dataKey": "20c79c979da8db0f",
         "dataIv": "20c79c979da8db0f",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "灵虎",
-      "name": "灵虎┃YYDS",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://bind.315999.xyz/89.txt",
-        "dataKey": "#getapp@TMD@2025",
-        "dataIv": "#getapp@TMD@2025",
         "deviceId": "",
         "version": ""
       }
@@ -405,12 +206,6 @@
       }
     },
     {
-      "key": "苹果",
-      "name": "苹果┃YYDS",
-      "type": 3,
-      "api": "csp_LiteApple"
-    },
-    {
       "key": "三六",
       "name": "三六┃YYDS",
       "type": 3,
@@ -423,174 +218,10 @@
       "api": "csp_Qiyou"
     },
     {
-      "key": "云播",
-      "name": "云播┃YYDS",
-      "type": 3,
-      "api": "csp_Tvyb"
-    },
-    {
       "key": "快看",
       "name": "快看┃YYDS",
       "type": 3,
       "api": "csp_Kuaikan"
-    },
-    {
-      "key": "爱看",
-      "name": "爱看┃YYDS",
-      "type": 3,
-      "api": "csp_Ikanbot"
-    },
-    {
-      "key": "哔哩",
-      "name": "哔哩┃YYDS",
-      "type": 3,
-      "api": "csp_Bili",
-      "ext": {
-        "json": "https://codeberg.org/yuan301/ok/raw/branch/main/BL.js"
-      }
-    },
-    {
-      "key": "剧霸",
-      "name": "剧霸┃YYDS",
-      "type": 3,
-      "api": "./A/剧霸.py"
-    },
-    {
-      "key": "猎手",
-      "name": "猎手┃YYDS",
-      "type": 3,
-      "api": "./A/猎手.py"
-    },
-    {
-      "key": "海马",
-      "name": "海马┃YYDS",
-      "type": 3,
-      "api": "./A/海马.py"
-    },
-    {
-      "key": "茶杯",
-      "name": "茶杯┃YYDS",
-      "type": 3,
-      "api": "./A/茶杯.py"
-    },
-    {
-      "key": "步步",
-      "name": "步步┃YYDS",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "./A/步步.js"
-    },
-    {
-      "key": "布雷",
-      "name": "布雷┃YYDS",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "./A/布雷.js"
-    },
-    {
-      "key": "人人",
-      "name": "人人┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/人人.js"
-    },
-    {
-      "key": "一个",
-      "name": "一个┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/一个.js"
-    },
-    {
-      "key": "三九",
-      "name": "三九┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/三九.js"
-    },
-    {
-      "key": "三四",
-      "name": "三四┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/三四.js"
-    },
-    {
-      "key": "火火",
-      "name": "火火┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/火火.js"
-    },
-    {
-      "key": "七点",
-      "name": "七点┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/七点.js"
-    },
-    {
-      "key": "好影",
-      "name": "好影┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/好影.js"
-    },
-    {
-      "key": "雪糕",
-      "name": "雪糕┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/雪糕.js"
-    },
-    {
-      "key": "永乐",
-      "name": "永乐┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/永乐.js"
-    },
-    {
-      "key": "流星",
-      "name": "流星┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/流星.js"
-    },
-    {
-      "key": "随客",
-      "name": "随客┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/随客.js"
-    },
-    {
-      "key": "泥巴",
-      "name": "泥巴┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/泥巴.js"
-    },
-    {
-      "key": "白票",
-      "name": "白票┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/白票.js"
-    },
-    {
-      "key": "可可",
-      "name": "可可┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/可可.js"
-    },
-    {
-      "key": "海纳",
-      "name": "海纳┃YYDS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./A/海纳.js"
     },
     {
       "key": "淘片",
@@ -598,141 +229,6 @@
       "type": 0,
       "api": "https://taopianapi.com/cjapi/mc/vod/xml"
     },
-    {
-      "key": "柚子",
-      "name": "柚子┃YYDS",
-      "type": 0,
-      "api": "https://api.yzzy-api.com/inc/api.php"
-    },
-    {
-      "key": "爱克",
-      "name": "爱克┃YYDS",
-      "type": 1,
-      "api": "https://www.ikunzy.com/api.php/provide/vod/"
-    },
-    {
-      "key": "卧龙",
-      "name": "卧龙┃YYDS",
-      "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
-    },
-    {
-      "key": "速播",
-      "name": "速播┃YYDS",
-      "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod"
-    },
-    {
-      "key": "魔都",
-      "name": "魔都┃YYDS",
-      "type": 1,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod"
-    },
-    {
-      "key": "暴风",
-      "name": "暴风┃YYDS",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod"
-    },
-    {
-      "key": "极速",
-      "name": "极速┃YYDS",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/"
-    },
-    {
-      "key": "天亦",
-      "name": "天亦┃YYDS",
-      "type": 1,
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
-    },
-    {
-      "key": "量子",
-      "name": "量子┃YYDS",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/"
-    },
-    {
-      "key": "天涯",
-      "name": "天涯┃YYDS",
-      "type": 1,
-      "api": "https://tyyszyapi.com/api.php/provide/vod/"
-    },
-    {
-      "key": "魔抓",
-      "name": "魔抓┃YYDS",
-      "type": 1,
-      "api": "https://mozhuazy.com/api.php/provide/vod/"
-    },
-    {
-      "key": "四圈",
-      "name": "四圈┃YYDS",
-      "type": 1,
-      "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
-    },
-    {
-      "key": "最大",
-      "name": "最大┃YYDS",
-      "type": 1,
-      "api": "https://zuida.xyz/api.php/provide/vod/"
-    },
-    {
-      "key": "如意",
-      "name": "如意┃YYDS",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/"
-    },
-    {
-      "key": "点播",
-      "name": "点播┃YYDS",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod"
-    },
-    {
-      "key": "相声小品",
-      "name": "📚相声小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "ext": "./A/相声小品.js",
-      "jar": "./A/m.jar"
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "ext": "./A/教育少儿.js",
-      "jar": "./A/m.jar"
-    },
-    {
-      "key": "小学教育",
-      "name": "📚小学教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "ext": "./A/教育小学.js",
-      "jar": "./A/m.jar"
-    },
-    {
-      "key": "初中教育",
-      "name": "📚初中教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "ext": "./A/教育初中.js",
-      "jar": "./A/m.jar"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "ext": "./A/教育高中.js",
-      "jar": "./A/m.jar"
-    }
   ],
   "parses": [
     {
