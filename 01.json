@@ -73,6 +73,45 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752223235214/0711.gif;md5;05d526179fb3b9f8bb597e632b3a2273"
     },
     {
+      "key": "闪电影视",
+      "name": "太极☯影视┃闪电影视",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "短剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "动作片",
+        "日本剧",
+        "泰剧",
+        "国产综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫"
+      ]
+    },
+    {
             "key": "1905",
             "name": "经典｜老电影",
             "type": 3,
@@ -133,6 +172,60 @@
           }
         ]
       }
+    },
+    {
+      "api": "https://zhxy.eu.org/api/KTV歌厅[听]",
+      "ext": "",
+      "filterable": 1,
+      "key": "drpyS_KTV歌厅[听]",
+      "name": "K歌┃MV",
+      "quickSearch": 0,
+      "searchable": 2,
+      "type": 4
+    },
+    {
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
+      "ext": "http://150.158.112.123/公众号玉玉应用笔记/js/zhongzi.js",
+      "filterable": 1,
+      "key": "hipy_js_种子音乐[听]",
+      "name": "音乐┃风格",
+      "order_num": 0,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "csp_Bili_Meinvw",
+      "name": "太极☯影视┃美女舞蹈",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://gitee.com/YW66/ZL/raw/master/xuexi.jar",
+      "ext": " https://x.6788888.xyz/M1/json/meinv.json"
+    },
+    {
+      "key": "csp_Bili_Nvtuan",
+      "name": "太极☯影视┃女团热舞",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://gitee.com/YW66/ZL/raw/master/xuexi.jar",
+      "ext": " https://x.6788888.xyz/M1/json/nvtuan.json"
+    },
+    {
+      "key": "csp_BBB",
+      "name": "太极☯影视┃舞蹈合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://gitee.com/YW66/ZL/raw/master/xuexi.jar",
+      "ext": "https://x.6788888.xyz/M1/json/bili2.json"
     },
     {
       "key": "梨园",
