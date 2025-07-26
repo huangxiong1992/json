@@ -33,26 +33,6 @@
       "api": "csp_Gz360"
     },
     {
-      "key": "白白",
-      "name": "蓝光┃速播",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-    },
-    {
-      "key": "仓鼠",
-      "name": "蓝光┃选4K区",
-      "type": 3,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "https://qjappcms.cs4k.top",
-        "dataKey": "Z98KXaLtO2wC1Pte",
-        "dataIv": "Z98KXaLtO2wC1Pte",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
       "key": "云速",
       "name": "蓝光┃4K线A",
       "type": 3,
@@ -61,29 +41,8 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752223235214/0711.gif;md5;05d526179fb3b9f8bb597e632b3a2273"
     },
     {
-      "key": "咖啡",
-      "name": "蓝光┃4K线B",
-      "type": 3,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "",
-        "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
-        "dataKey": "qwertyuiopqwertt",
-        "dataIv": "qwertyuiopqwertt",
-        "deviceId": "",
-        "version": "109"
-      }
-    },
-    {
-      "key": "农民",
-      "name": "蓝光┃民民",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/NMYS.json"
-    },
-    {
       "key": "彼岸",
-      "name": "蓝光┃岸岸",
+      "name": "蓝光┃A",
       "type": 3,
       "api": "csp_AppGet",
       "ext": {
@@ -95,34 +54,8 @@
       }
     },
     {
-      "key": "蓝鹰",
-      "name": "蓝光┃鹰鹰",
-      "type": 3,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "http://172.247.192.138:18520",
-        "dataKey": "SuNlEkOLAoWJj1Oe",
-        "dataIv": "SuNlEkOLAoWJj1Oe",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "米诺",
-      "name": "蓝光┃诺诺",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://www.milkidc.cn",
-        "dataKey": "20c79c979da8db0f",
-        "dataIv": "20c79c979da8db0f",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
             "key": "1905",
-            "name": "蓝光｜1905",
+            "name": "经典｜老电影",
             "type": 3,
             "api": "csp_Web1905",
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
@@ -130,6 +63,171 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
+    },
+    {
+      "key": "木耳",
+      "name": "🎠┃木耳┃影视",
+      "type": 3,
+      "api": "csp_Hmer",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/fm.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "荐片弹幕",
+      "name": "荐片影视",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/janp.jar",
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "量子",
+      "name": "☀量子🔹秒播",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/tvkj.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": "json:https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/urllz.txt",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+    {
+      "key": "虎牙直播",
+      "name": "☀虎牙🔹直播",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/hyzb.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "斗鱼直播",
+      "name": "☀斗鱼🔹直播",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/dyzb.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "素白白",
+      "name": "🐑┃白白┃影视",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": "https://www.subaibai.com"
+},
+{
+      "key": "热播影视",
+      "name": "🐠┃热播┃秒播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+},
+{
+      "key": "浪酷影视",
+      "name": "🏄️┃浪酷┃秒播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
+},
+{
+      "key": "星芽短剧",
+      "name": "🌟┃星芽┃短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "4k专区一",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "playerType": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx.js"
+    },
+    {
+      "key": "hipy_js_百忙无果[官]",
+      "name": "4k专区二",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "playerType": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/mg.js"
+    },
+    {
+      "key": "白白",
+      "name": "素白白｜拾光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/subb.txt"
+    },
+    {
+      "key": "西瓜视频",
+      "name": "西瓜｜视频",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      }
     },
     {
       "key": "央视大全",
