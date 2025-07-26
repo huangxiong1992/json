@@ -14,16 +14,12 @@
   ],
   "sites": [
     {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "蓝光┃甄选",
+      "key": "豆瓣",
+      "name": "如遇卡顿点击换源",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "playerType": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx.js"
+      "api": "csp_Douban",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/Dban.jar",
+      "searchable": 0
     },
     {
       "key": "瓜子",
