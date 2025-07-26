@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/gg4k2.jar;md5;0ebf254bc81580c2db529f7b26680953",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/gg4k.jar;md5;46761ee087c0f297de2abf92ec088591",
   "logo":"https://gd-hbimg.huaban.com/ca8b4e7379e601bca6eb21c33c1994e59e991b481ec6c7-RbvXmL_fw658",
   "lives": [
     {
@@ -14,14 +14,6 @@
   ],
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "如遇卡顿点击换源",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/Dban.jar",
-      "searchable": 0
-    },
-    {
       "key": "瓜子",
       "name": "蓝光┃秒播",
       "type": 3,
@@ -34,6 +26,27 @@
       "api": "csp_NanGua",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0711.jar;md5;54418536dc2a40da4e94437397895d01"
+    },
+    {
+      "key": "彼岸",
+      "name": "蓝光┃高清",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://172.247.44.217:30012",
+        "dataKey": "JLa1oRdL6+eK7@M)",
+        "dataIv": "JLa1oRdL6+eK7@M)",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "剧猫",
+      "name": "蓝光┃超清",
+      "type": 3,
+      "api": "csp_Muou",
+      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
     },
     {
       "key": "云速",
@@ -58,33 +71,6 @@
       "api": "csp_Muou",
       "ext": "7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
-      "key": "彼岸",
-      "name": "蓝光┃C",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://172.247.44.217:30012",
-        "dataKey": "JLa1oRdL6+eK7@M)",
-        "dataIv": "JLa1oRdL6+eK7@M)",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "剧猫",
-      "name": "蓝光┃D",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
-      "key": "如意",
-      "name": "蓝光┃测试",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/"
     },
     {
             "key": "1905",
