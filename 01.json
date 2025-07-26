@@ -20,12 +20,16 @@
       "api": "csp_Gz360"
     },
     {
-      "key": "南瓜",
-      "name": "蓝光┃秒播",
+      "key": "追忆",
+      "name": "蓝光｜秒播",
       "type": 3,
-      "api": "csp_NanGua",
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0711.jar;md5;54418536dc2a40da4e94437397895d01"
+      "api": "csp_AppSy",
+      "ext": {
+        "url": "http://110.42.7.130:1866",
+        "key1": "aassddwwxxllsx1x",
+        "key2": "2083c87e98b6ce08",
+        "key3": "2083c87e98b6ce08"
+      }
     },
     {
       "key": "彼岸",
@@ -47,6 +51,36 @@
       "api": "csp_Muou",
       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
+    },
+    {
+      "key": "咖啡",
+      "name": "蓝光｜4KA",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://omofun.lol/1.txt",
+        "dataKey": "skdhalkshqklwkj1",
+        "dataIv": "skdhalkshqklwkj1",
+        "deviceId": "",
+        "version": "109",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "榴莲",
+      "name": "蓝光｜4KB",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "https://qjappcms.ll4k.xyz",
+        "dataKey": "1yGA85sJ5STtE7uj",
+        "dataIv": "1yGA85sJ5STtE7uj",
+        "deviceId": "",
+        "version": "50000"
+      }
     },
     {
       "key": "火猫",
@@ -74,7 +108,7 @@
     },
     {
       "key": "闪电影视",
-      "name": "太极☯影视┃闪电影视",
+      "name": "蓝光┃备用一",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -145,6 +179,36 @@
       "filterable": 1,
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
     },
+    {
+"key":"926",
+"name":"⚽926看球",
+"type":3,
+"api":"csp_kanqiu926Guard",
+"searchable":0,
+"changeable":1,
+"style":{
+"type":"list"
+}
+},
+{
+"key":"88",
+"name":"⚽88看球",
+"type":3,
+"api":"csp_Sir88Guard",
+"searchable":0,
+"changeable":1,
+"style":{
+"type":"list"
+}
+},
+{"key":"alllive",
+"name":"📽️一直直播",
+"type":3,
+"api":"csp_AllliveGuard",
+"playerType":2,
+"searchable":0,
+"changeable":1
+},
     {
       "key": "看球",
       "name": "88┃看球",
