@@ -65,58 +65,6 @@
             "filterable": 0
     },
     {
-      "key": "木耳",
-      "name": "🎠┃木耳┃影视",
-      "type": 3,
-      "api": "csp_Hmer",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/fm.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 30
-    },
-    {
-      "key": "荐片弹幕",
-      "name": "荐片影视",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/janp.jar",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "量子",
-      "name": "☀量子🔹秒播",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/tvkj.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playurl": "json:https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/urllz.txt",
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ]
-    },
-    {
       "key": "虎牙直播",
       "name": "☀虎牙🔹直播",
       "type": 3,
@@ -139,50 +87,6 @@
       }
     },
     {
-      "key": "素白白",
-      "name": "🐑┃白白┃影视",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "ext": "https://www.subaibai.com"
-},
-{
-      "key": "热播影视",
-      "name": "🐠┃热播┃秒播",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-},
-{
-      "key": "浪酷影视",
-      "name": "🏄️┃浪酷┃秒播",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "ext": {
-        "url": "http://v.lkuys.cn"
-      }
-},
-{
-      "key": "星芽短剧",
-      "name": "🌟┃星芽┃短剧",
-      "type": 3,
-      "api": "csp_AppXY",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "4k专区一",
       "type": 3,
@@ -195,39 +99,12 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx.js"
     },
     {
-      "key": "hipy_js_百忙无果[官]",
-      "name": "4k专区二",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "playerType": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/mg.js"
-    },
-    {
       "key": "白白",
       "name": "素白白｜拾光",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/subb.txt"
-    },
-    {
-      "key": "西瓜视频",
-      "name": "西瓜｜视频",
-      "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      }
     },
     {
       "key": "央视大全",
