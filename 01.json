@@ -33,8 +33,25 @@
       "api": "csp_Gz360"
     },
     {
+      "key": "天天",
+      "name": "蓝光┃速播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": {
+        "url": "http://tt.ysdqjs.cn"
+      }
+    },
+    {
+      "key": "南瓜",
+      "name": "蓝光┃立播",
+      "type": 3,
+      "api": "csp_NanGua",
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
+      "jar": "./A/qj0711.jar;md5;54418536dc2a40da4e94437397895d01"
+    },
+    {
       "key": "云速",
-      "name": "蓝光┃4K线A",
+      "name": "蓝光┃4K",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X",
@@ -42,7 +59,7 @@
     },
     {
       "key": "彼岸",
-      "name": "蓝光┃A",
+      "name": "蓝光┃C",
       "type": 3,
       "api": "csp_AppGet",
       "ext": {
@@ -52,6 +69,42 @@
         "deviceId": "",
         "version": ""
       }
+    },
+    {
+      "key": "剧猫",
+      "name": "蓝光┃D",
+      "type": 3,
+      "api": "csp_Muou",
+      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
+      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
+    },
+    {
+      "key": "火猫",
+      "name": "火猫⚡-4K-",
+      "type": 3,
+      "api": "csp_Muou",
+      "ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602",
+      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
+    },
+    {
+      "key": "驿站",
+      "name": "驿站⚡-4K-",
+      "type": 3,
+      "api": "csp_Muou",
+      "ext": "7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh",
+      "jar": "./A/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
+    },
+    {
+      "key": "四圈",
+      "name": "四圈┃YYDS",
+      "type": 1,
+      "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
+    },
+    {
+      "key": "如意",
+      "name": "如意┃YYDS",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/"
     },
     {
             "key": "1905",
