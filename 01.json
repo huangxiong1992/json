@@ -181,7 +181,7 @@
     },
     {
       "key":"926",
-      "name":"⚽926看球",
+      "name":"926看球",
       "type":3,
       "api":"csp_kanqiu926Guard",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qingl.jar",
@@ -193,10 +193,10 @@
     },
     {
       "key":"88",
-      "name":"⚽88看球",
+      "name":"88看球",
       "type":3,
       "api":"csp_Sir88Guard",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qingl.jar",
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qingl.jar",
       "searchable":0,
       "changeable":1,
       "style":{
@@ -205,25 +205,13 @@
     },
     {
       "key":"alllive",
-      "name":"📽️一直直播",
+      "name":"📽一直直播",
       "type":3,
       "api":"csp_AllliveGuard",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qingl.jar",
       "playerType":2,
       "searchable":0,
       "changeable":1
-    },
-    {
-      "key": "看球",
-      "name": "88┃看球",
-      "type": 3,
-      "api": "csp_KanqiuGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/88.jar",
-      "order_num": 0,
-      "changeable": 0
     },
     {
       "key": "csp_Kugou",
