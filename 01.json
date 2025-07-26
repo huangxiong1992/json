@@ -115,6 +115,44 @@
             "filterable": 0
     },
     {
+            "key": "河马短剧",
+            "name": "河马｜短剧",
+            "type": 3,
+            "api": "https://tv.youdu.fan:666/duhe/py/河马短剧.py",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },
+    {
+            "key": "红果短剧",
+            "name": "红果｜短剧",
+            "type": 3,
+            "api": "https://tv.youdu.fan:666/duhe/py/红果短剧.py",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },
+    {
+            "key": "快手直播",
+            "name": "快手｜直播",
+            "type": 3,
+            "api": "csp_KsLive",
+             "jar": "https://4708.kstore.space/tvbox/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "style": {
+            "type": "rect",
+            "ratio": 1.597
+            }
+    },
+    {
       "key": "央视大全",
       "name": "央央｜专区",
       "type": 3,
