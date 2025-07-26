@@ -196,9 +196,9 @@
       "name":"88看球",
       "type":3,
       "api":"csp_Sir88Guard",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/fan.jar",
       "searchable":0,
       "changeable":1,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/fan.jar",
       "style":{
       "type":"list"
      }
@@ -208,9 +208,9 @@
       "name":"一直直播",
       "type":3,
       "api":"csp_AllliveGuard",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/fan.jar",
       "playerType":2,
       "searchable":0,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/fan.jar",
       "changeable":1
     },
     {
