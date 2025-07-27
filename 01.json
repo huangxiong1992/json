@@ -20,6 +20,14 @@
       "api": "csp_Gz360"
     },
     {
+      "key": "南瓜",
+      "name": "蓝光┃速播",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },
+    {
       "key": "彼岸",
       "name": "蓝光┃高清",
       "type": 3,
