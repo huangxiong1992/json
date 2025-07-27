@@ -21,7 +21,7 @@
     },
     {
       "key": "金牌影视",
-      "name": "🥇┃金牌┃影视",
+      "name": "蓝光┃一",
       "type": 3,
       "api": "https://file.commonspace.one/py/金牌影视.py",
       "searchable": 1,
@@ -29,8 +29,20 @@
       "filterable": 1,
       "playerType": 2,
       "ext": {
-        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       }
+    },
+    {
+      "key": "drpy2_旺旺",
+      "name": "蓝光┃二",
+      "type": 3,
+      "playerType": 2,
+      "api": "assets://js/lib/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
+      "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
     },
     {
       "key": "南瓜",
@@ -133,6 +145,7 @@
       "type": 3,
       "playerType": 1,
       "api": "assets://js/lib/drpy2.min.js",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
       "ext": "https://file.commonspace.one/js/星芽短剧.js"
     },
     {
