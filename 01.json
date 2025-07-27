@@ -25,12 +25,10 @@
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
-      "spider": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qiaoz.jar;md5;54418536dc2a40da4e94437397895d01",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qzhi.jar;md5;54418536dc2a40da4e94437397895d01",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
-    {"key":"鲸鱼","name":"蓝光｜立播","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"","site":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","dataKey":"AAdgrdghjfgswerA","dataIv":"AAdgrdghjfgswerA","deviceId":"","version":""}},
-    {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1},
-    {"key":"榴莲","name":"👑榴莲｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"https://qjappcms.ll4k.xyz","dataKey":"1yGA85sJ5STtE7uj","dataIv":"1yGA85sJ5STtE7uj","deviceId":"","version":"50000"}},
+    {"key":"csp_baibai","name":"蓝光┃立播","type":3,"quickSearch":1,"api":"csp_SuBaiBai","jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/og.jar;md5;5077ea664359491c4ae398cad3d61940","ext":"https://www.subaibai.com"},
     {
       "key": "彼岸",
       "name": "蓝光┃高清",
@@ -52,6 +50,7 @@
       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
     },
+    {"key":"榴莲","name":"蓝光┃4K","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"https://qjappcms.ll4k.xyz","dataKey":"1yGA85sJ5STtE7uj","dataIv":"1yGA85sJ5STtE7uj","deviceId":"","version":"50000"}},
     {
       "key": "火猫",
       "name": "蓝光┃4K一",
