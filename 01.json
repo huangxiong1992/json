@@ -20,6 +20,19 @@
       "api": "csp_Gz360"
     },
     {
+      "key": "金牌影视",
+      "name": "🥇┃金牌┃影视",
+      "type": 3,
+      "api": "https://file.commonspace.one/py/金牌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      }
+    },
+    {
       "key": "南瓜",
       "name": "蓝光┃速播",
       "type": 3,
@@ -115,8 +128,16 @@
       ]
     },
     {
+      "key": "星芽短剧",
+      "name": "蓝光｜短剧一",
+      "type": 3,
+      "playerType": 1,
+      "api": "assets://js/lib/drpy2.min.js",
+      "ext": "https://file.commonspace.one/js/星芽短剧.js"
+    },
+    {
             "key": "河马短剧",
-            "name": "蓝光｜短剧",
+            "name": "蓝光｜短剧二",
             "type": 3,
             "api": "https://tv.youdu.fan:666/duhe/py/河马短剧.py",
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
