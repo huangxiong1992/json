@@ -25,8 +25,12 @@
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
+      "spider": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qiaoz.jar;md5;54418536dc2a40da4e94437397895d01",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
+    {"key":"鲸鱼","name":"蓝光｜立播","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"","site":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","dataKey":"AAdgrdghjfgswerA","dataIv":"AAdgrdghjfgswerA","deviceId":"","version":""}},
+    {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1},
+    {"key":"榴莲","name":"👑榴莲｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"https://qjappcms.ll4k.xyz","dataKey":"1yGA85sJ5STtE7uj","dataIv":"1yGA85sJ5STtE7uj","deviceId":"","version":"50000"}},
     {
       "key": "彼岸",
       "name": "蓝光┃高清",
