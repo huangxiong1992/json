@@ -37,7 +37,7 @@
       "name": "蓝光┃二",
       "type": 3,
       "playerType": 2,
-      "api": "assets://js/lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -144,7 +144,7 @@
       "name": "蓝光｜短剧一",
       "type": 3,
       "playerType": 1,
-      "api": "assets://js/lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
       "ext": "https://file.commonspace.one/js/星芽短剧.js"
     },
@@ -159,6 +159,18 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "蓝光┃短剧三",
+      "type": 3,
+      "api": "https://file.commonspace.one/py/甜圈短剧.py",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
     {
             "key": "1905",
