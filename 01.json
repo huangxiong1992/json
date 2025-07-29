@@ -31,15 +31,6 @@
       "filterable": 1,
       "timeout": 10
     },
-    {"key":"csp_baibai","name":"蓝光┃E","type":3,"quickSearch":1,"api":"csp_SuBaiBai","jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/og.jar;md5;5077ea664359491c4ae398cad3d61940","ext":"https://www.subaibai.com"},
-    {
-      "key": "剧猫",
-      "name": "蓝光┃超清",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
     {
       "key": "火猫",
       "name": "蓝光┃4K一",
@@ -184,18 +175,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
-    },
-    {
-      "key": "哔哩哔哩",
-      "name": "哔哔｜专区",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 2,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
     },
     {
             "key": "快手直播",
