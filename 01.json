@@ -24,6 +24,7 @@
       "name": "网络┃直播",
       "type": 3,
       "api": "assets://bhdc/宝盒/py/网络直播.py"
+      "jar": "assets://bhdc/宝盒/spider.jar",
     },
     {
       "key": "88看球",
@@ -41,6 +42,7 @@
       "type": 3,
       "searchable": 0,
       "api": "assets://bhdc/宝盒/lib/live2vod.js",
+      "jar": "assets://bhdc/宝盒/spider.jar",
       "ext": "https://3043.kstore.space/bhvip/bh/bhlive.json"
     },
     {
@@ -70,28 +72,11 @@
       "name": "界影视┃蓝光",
       "type": 3,
       "api": "assets://bhdc/宝盒/PY/jieyingshi.py",
+      "jar": "assets://bhdc/宝盒/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
-    },
-    {
-      "key": "厂长影视",
-      "name": "厂长┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.czzymovie.com/"
-    },
-    {
-      "key": "绝对影视",
-      "name": "绝对┃影视",
-      "type": 3,
-      "api": "csp_FourK",
-      "ext": "https://www.4kvm.tv"
     },
     {
       "key": "韩圈",
