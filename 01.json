@@ -10,7 +10,7 @@
     },
     {
       "key": "drpy2_旺旺",
-      "name": "蓝光┃A",
+      "name": "蓝光┃速播",
       "type": 3,
       "playerType": 2,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
@@ -21,32 +21,8 @@
       "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
     },
     {
-      "key": "文才",
-      "name": "蓝光┃B",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/bcYqZowf.png;md5;ae982e02e6bfab39c5a12d9551cced5e",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "金牌影视",
-      "name": "蓝光┃C",
-      "type": 3,
-      "api": "https://file.commonspace.one/py/金牌影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-      "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-      }
-    },
-    {
       "key": "厂长",
-      "name": "蓝光┃D",
+      "name": "蓝光┃不卡",
       "type": 3,
       "api": "csp_CzzyGuard",
       "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/bcYqZowf.png;md5;ae982e02e6bfab39c5a12d9551cced5e",
@@ -64,7 +40,6 @@
       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
     },
-    {"key":"榴莲","name":"蓝光┃4K","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"https://qjappcms.ll4k.xyz","dataKey":"1yGA85sJ5STtE7uj","dataIv":"1yGA85sJ5STtE7uj","deviceId":"","version":"50000"}},
     {
       "key": "火猫",
       "name": "蓝光┃4K一",
@@ -142,7 +117,7 @@
     },
     {
       "key": "bilimd",
-      "name": "秒播┃影院",
+      "name": "蓝光┃影院",
       "type": 3,
       "api": "csp_BilimdGuard",
       "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/bcYqZowf.png;md5;ae982e02e6bfab39c5a12d9551cced5e",
