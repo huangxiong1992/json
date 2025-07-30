@@ -9,13 +9,6 @@
       "api": "csp_Gz360"
     },
     {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "蜻蜓｜广播",
-      "type": 3,
-      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
-      "ext": "http://150.158.112.123/公众号玉玉应用笔记/js/qingting.js"
-    },
-    {
       "key": "drpy2_旺旺",
       "name": "蓝光┃速播",
       "type": 3,
@@ -26,6 +19,13 @@
       "quickSearch": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
       "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
+    },
+    {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "蜻蜓｜广播",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qingting.js"
     },
     {
       "key": "厂长",
