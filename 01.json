@@ -9,6 +9,13 @@
       "api": "csp_Gz360"
     },
     {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "蜻蜓｜广播",
+      "type": 3,
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
+      "ext": "http://150.158.112.123/公众号玉玉应用笔记/js/qingting.js"
+    },
+    {
       "key": "drpy2_旺旺",
       "name": "蓝光┃速播",
       "type": 3,
