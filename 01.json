@@ -3,8 +3,21 @@
   "logo":"https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "豆瓣｜推荐 ( 点击首页发现更多 仅供测试勿新广告  祝您生活愉快! )",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
+      "key": "瓜子",
+      "name": "蓝光┃秒播",
+      "type": 3,
+      "api": "csp_Gz360"
+    },
+    {
       "key": "FourKTV",
-      "name": "蓝光｜秒播",
+      "name": "蓝光｜速播",
       "type": 3,
       "api": "csp_FourKTV",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchenfuke.jar",
@@ -12,12 +25,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "瓜子",
-      "name": "蓝光┃速播",
-      "type": 3,
-      "api": "csp_Gz360"
     },
     {
       "key": "drpy2_旺旺",
@@ -95,14 +102,6 @@
         "deviceId": "",
         "version": "120"
       }
-    },
-    {
-      "key": "火猫",
-      "name": "蓝光┃4K二",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
     },
     {
       "key": "云速",
