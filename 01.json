@@ -21,6 +21,32 @@
       "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
     },
     {
+      "key": "仓鼠",
+      "name": "影视｜点播一",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchencang.jar",
+      "ext": {
+        "url": "https://newappcms.cs4k.top",
+        "dataKey": "Z98KXaLtO2wC1Pte",
+        "dataIv": "Z98KXaLtO2wC1Pte",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
+    {
+      "key": "FourKTV",
+      "name": "影视｜点播二",
+      "type": 3,
+      "api": "csp_FourKTV",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchenfuke.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "drpy_js_蜻蜓FM",
       "name": "蜻蜓｜广播",
       "type": 3,
