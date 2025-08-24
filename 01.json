@@ -16,15 +16,8 @@
       "searchable": 0
     },
     {
-      "key": "白白",
-      "name": "蓝光┃速播",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-    },
-    {
       "key": "彼岸",
-      "name": "蓝光┃A",
+      "name": "蓝光┃A 勿新广告",
       "type": 3,
       "api": "csp_AppGet",
       "ext": {
@@ -36,15 +29,22 @@
       }
     },
     {
+      "key": "白白",
+      "name": "蓝光┃B 勿新广告",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "ext": "https://www.subaibai.com"
+    },
+    {
       "key": "农民",
-      "name": "蓝光┃B",
+      "name": "蓝光┃C 勿新广告",
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/NMYS.json"
     },
     {
       "key": "闪电影视",
-      "name": "蓝光┃C",
+      "name": "蓝光┃D 勿新广告",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -424,4 +424,5 @@
     }
   ]
 }
+
 
