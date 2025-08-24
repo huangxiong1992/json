@@ -29,22 +29,15 @@
       }
     },
     {
-      "key": "白白",
-      "name": "蓝光┃B 勿信广告",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-    },
-    {
       "key": "农民",
-      "name": "蓝光┃C 勿信广告",
+      "name": "蓝光┃B 勿信广告",
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/NMYS.json"
     },
     {
       "key": "闪电影视",
-      "name": "蓝光┃D 勿信广告",
+      "name": "蓝光┃C 勿信广告",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -424,6 +417,7 @@
     }
   ]
 }
+
 
 
 
