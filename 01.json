@@ -16,19 +16,6 @@
       "searchable": 0
     },
     {
-      "key": "彼岸",
-      "name": "蓝光┃A 勿信广告",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://172.247.44.217:30012",
-        "dataKey": "JLa1oRdL6+eK7@M)",
-        "dataIv": "JLa1oRdL6+eK7@M)",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "农民",
       "name": "蓝光┃B 勿信广告",
       "type": 3,
@@ -87,29 +74,6 @@
       "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
     },
     {
-      "key": "仓鼠",
-      "name": "蓝光｜4K一",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchencang.jar",
-      "ext": {
-        "url": "https://newappcms.cs4k.top",
-        "dataKey": "Z98KXaLtO2wC1Pte",
-        "dataIv": "Z98KXaLtO2wC1Pte",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "火猫",
-      "name": "蓝光┃4K二",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
             "key": "1905",
             "name": "经典｜老电影",
             "type": 3,
@@ -131,15 +95,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
-    {
-      "key": "星芽短剧",
-      "name": "蓝光｜短剧二",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
-      "ext": "https://file.commonspace.one/js/星芽短剧.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
@@ -417,6 +372,7 @@
     }
   ]
 }
+
 
 
 
