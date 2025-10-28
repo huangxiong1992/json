@@ -23,7 +23,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/tvkj.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/tvkjvip.jar",
       "ext": {
         "danmu": true
       },
@@ -71,6 +71,16 @@
         "成长逆袭",
         "反转爽剧"
       ]
+    },
+    {
+      "key": "csp_XYQHiker_河马短剧",
+      "name": "《河马🎦短剧》",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/json/refs/heads/main/hema.json"
     },
     {
       "key": "豆瓣",
@@ -436,6 +446,7 @@
     }
   ]
 }
+
 
 
 
