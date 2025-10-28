@@ -80,6 +80,13 @@
       ]
     },
     {
+      "key": "农民",
+      "name": "农民┃高清 如有广告勿信",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/NMYS.json"
+    },
+    {
       "key": "csp_XYQHiker_河马短剧",
       "name": "《河马🎦短剧》",
       "type": 3,
@@ -453,6 +460,7 @@
     }
   ]
 }
+
 
 
 
