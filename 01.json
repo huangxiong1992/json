@@ -9,6 +9,17 @@
       "api": "csp_Gz360"
     },
     {
+      "key": "hipy_js_采集之王",
+      "name": "《天微🔹采集》",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/caijizhiwanghe.js?type=url&params=https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/caijijingtai.json$1"
+    },
+    {
       "key": "金牌",
       "name": "金牌┃影视",
       "type": 3,
@@ -442,6 +453,7 @@
     }
   ]
 }
+
 
 
 
